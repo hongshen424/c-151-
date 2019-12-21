@@ -32,5 +32,6 @@ int main()
     }
     for(i=1;i<=n;i++)
         if(a[i]!=0)
+        //if
         printf("The left child is NO %d.\n",i);
 }
